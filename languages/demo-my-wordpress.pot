@@ -1,0 +1,1045 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Demo My WordPress\n"
+"POT-Creation-Date: 2020-04-09 10:21+0300\n"
+"PO-Revision-Date: 2020-04-09 10:21+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: demo-my-wordpress.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: demo-my-wordpress-logs.php:31
+msgid "System Info:"
+msgstr ""
+
+#: demo-my-wordpress-logs.php:35
+msgid "Some general system information."
+msgstr ""
+
+#: demo-my-wordpress-logs.php:43
+msgid "User Agent:"
+msgstr ""
+
+#: demo-my-wordpress-logs.php:47
+msgid "Web Server:"
+msgstr ""
+
+#: demo-my-wordpress-logs.php:51
+msgid "PHP Version:"
+msgstr ""
+
+#: demo-my-wordpress-logs.php:55
+msgid "PHP Max POST Size:"
+msgstr ""
+
+#: demo-my-wordpress-logs.php:59
+msgid "PHP Max Upload Size:"
+msgstr ""
+
+#: demo-my-wordpress-logs.php:63
+msgid "PHP Memory Limit:"
+msgstr ""
+
+#: demo-my-wordpress-logs.php:67
+msgid "PHP DateTime Class:"
+msgstr ""
+
+#: demo-my-wordpress-logs.php:68 demo-my-wordpress-logs.php:72
+msgid "Available"
+msgstr ""
+
+#: demo-my-wordpress-logs.php:68 demo-my-wordpress-logs.php:72
+msgid "Not available"
+msgstr ""
+
+#: demo-my-wordpress-logs.php:71
+msgid "PHP Curl:"
+msgstr ""
+
+#: demo-my-wordpress-logs.php:82 demo-my-wordpress-logs.php:92
+msgid "Restore Plugin Default Settings"
+msgstr ""
+
+#: demo-my-wordpress-logs.php:86
+msgid ""
+"Hit this button and the plugin settings will be restored to their default "
+"values. Warning! All settings will be lost!"
+msgstr ""
+
+#: demo-my-wordpress-logs.php:92
+msgid "Are you sure you want to restore the default plugin settings?"
+msgstr ""
+
+#: demo-my-wordpress-logs.php:95
+msgid "Email List:"
+msgstr ""
+
+#: demo-my-wordpress-logs.php:99
+msgid ""
+"This is the main email list that was gattered using the plugin's demo form "
+"feature."
+msgstr ""
+
+#: demo-my-wordpress-logs.php:113
+msgid "No emails yet in the list."
+msgstr ""
+
+#: demo-my-wordpress-logs.php:122
+msgid "Activity Log:"
+msgstr ""
+
+#: demo-my-wordpress-logs.php:126
+msgid ""
+"This is the main log of your plugin. Here will be listed every single "
+"instance of the rules you run or are automatically run by schedule jobs (if "
+"you enable logging, in the plugin configuration)."
+msgstr ""
+
+#: demo-my-wordpress-logs.php:140
+msgid "Log empty"
+msgstr ""
+
+#: demo-my-wordpress-logs.php:146
+msgid "Are you sure you want to delete all logs?"
+msgstr ""
+
+#: demo-my-wordpress-logs.php:147
+msgid "Delete Logs"
+msgstr ""
+
+#: demo-my-wordpress-main.php:181
+msgid "Settings saved."
+msgstr ""
+
+#: demo-my-wordpress-main.php:190
+msgid "Plugin registration failed!"
+msgstr ""
+
+#: demo-my-wordpress-main.php:199
+msgid "Plugin registration successful!"
+msgstr ""
+
+#: demo-my-wordpress-main.php:211
+msgid "Main Switch:"
+msgstr ""
+
+#: demo-my-wordpress-main.php:216
+msgid "Enable or disable this plugin. This acts like a main switch."
+msgstr ""
+
+#: demo-my-wordpress-main.php:234
+msgid ""
+"This feature of the plugin is disabled! Please enable it from the above "
+"switch."
+msgstr ""
+
+#: demo-my-wordpress-main.php:237
+#, php-format
+msgid ""
+"Need help configuring this plugin? Please check out it's <a href=\"%s\" "
+"target=\"_blank\">video tutorial</a>."
+msgstr ""
+
+#: demo-my-wordpress-main.php:239
+#, php-format
+msgid ""
+"Having issues with the plugin? Please be sure to check out our <a href=\"%s"
+"\" target=\"_blank\">knowledge-base</a> before you contact <a href=\"%s\" "
+"target=\"_blank\">our support</a>!"
+msgstr ""
+
+#: demo-my-wordpress-main.php:240
+#, php-format
+msgid ""
+"Do you enjoy our plugin? Please give it a <a href=\"%s\" target=\"_blank"
+"\">rating</a>  on CodeCanyon, or check <a href=\"%s\" target=\"_blank\">our "
+"website</a>  for other cool plugins."
+msgstr ""
+
+#: demo-my-wordpress-main.php:241
+msgid "Are you looking for a cool new theme that best fits this plugin?"
+msgstr ""
+
+#: demo-my-wordpress-main.php:241
+msgid "Click here for our theme related recommendation"
+msgstr ""
+
+#: demo-my-wordpress-main.php:258
+msgid "Plugin Registration Info - Automatic Updates Enabled:"
+msgstr ""
+
+#: demo-my-wordpress-main.php:260
+msgid "Item Name:"
+msgstr ""
+
+#: demo-my-wordpress-main.php:262
+msgid "Item ID:"
+msgstr ""
+
+#: demo-my-wordpress-main.php:265
+msgid "Created At:"
+msgstr ""
+
+#: demo-my-wordpress-main.php:268
+msgid "Buyer Name:"
+msgstr ""
+
+#: demo-my-wordpress-main.php:271
+msgid "License Type:"
+msgstr ""
+
+#: demo-my-wordpress-main.php:274
+msgid "Supported Until:"
+msgstr ""
+
+#: demo-my-wordpress-main.php:282
+msgid ""
+"Automatic updates for this plugin are disabled. Please activate the plugin "
+"from below, so you can benefit of automatic updates for it!"
+msgstr ""
+
+#: demo-my-wordpress-main.php:290
+#, php-format
+msgid ""
+"Please input your Envato purchase code, to enable automatic updates in the "
+"plugin. To get your purchase code, please follow <a href=\"%s\" target="
+"\"_blank\">this tutorial</a>. Info submitted to the registration server "
+"consists of: purchase code, site URL, site name, admin email. All these data "
+"will be used strictly for registration purposes."
+msgstr ""
+
+#: demo-my-wordpress-main.php:294
+msgid "Register Envato Purchase Code To Enable Automatic Updates:"
+msgstr ""
+
+#: demo-my-wordpress-main.php:296
+msgid "Envato Purchase Code"
+msgstr ""
+
+#: demo-my-wordpress-main.php:300
+msgid "Register Purchase Code"
+msgstr ""
+
+#: demo-my-wordpress-main.php:314
+msgid "This plugin requires WordPress Multisite to function. Please check this"
+msgstr ""
+
+#: demo-my-wordpress-main.php:314
+msgid "link"
+msgstr ""
+
+#: demo-my-wordpress-main.php:314
+msgid "to learn how to enable Multisite."
+msgstr ""
+
+#: demo-my-wordpress-main.php:320
+msgid "Plugin settings:"
+msgstr ""
+
+#: demo-my-wordpress-main.php:329
+msgid "Do you want to enable logging for rules?"
+msgstr ""
+
+#: demo-my-wordpress-main.php:333
+msgid "Enable Logging for Rules:"
+msgstr ""
+
+#: demo-my-wordpress-main.php:349
+msgid ""
+"Do you want to allow each user to have a maximum of one demo sites created?"
+msgstr ""
+
+#: demo-my-wordpress-main.php:353
+msgid "Allow Only One Demo Site For Each Registered User:"
+msgstr ""
+
+#: demo-my-wordpress-main.php:366
+msgid "User Form Settings:"
+msgstr ""
+
+#: demo-my-wordpress-main.php:375
+msgid ""
+"Do you want to add an email input to the form (where the user must enter "
+"he's email address)? A mail containing the demo URL will be sent to the "
+"provided email address. Email address will be saved in the plugin."
+msgstr ""
+
+#: demo-my-wordpress-main.php:379
+msgid "Send Demo URL To User's Email Address:"
+msgstr ""
+
+#: demo-my-wordpress-main.php:394
+#, php-format
+msgid ""
+"Set the template of the title email that will be sent to users who register "
+"in the plugin. You can use the following shortcodes when settings this "
+"content: %%demo_user%%, %%demo_password%%, %%demo_link%%, %%demo_url%%. If "
+"you leave this field blank, the default value is: 'Demo Login URL'"
+msgstr ""
+
+#: demo-my-wordpress-main.php:398
+msgid "Email Subject Template:"
+msgstr ""
+
+#: demo-my-wordpress-main.php:400
+msgid "Demo login URL"
+msgstr ""
+
+#: demo-my-wordpress-main.php:407
+#, php-format
+msgid ""
+"Set the template of the content email that will be sent to users who "
+"register in the plugin. You can use the following shortcodes when settings "
+"this content: %%demo_user%%, %%demo_password%%, %%demo_link%%, %%demo_url%%. "
+"If you leave this field blank, the default value is: 'Thank you for using "
+"our demo. Please log in to the generated demo page %%demo_link%%. Your "
+"username is: %%demo_user%% and your password is: %%demo_password%%'"
+msgstr ""
+
+#: demo-my-wordpress-main.php:411
+msgid "Email Content Template:"
+msgstr ""
+
+#: demo-my-wordpress-main.php:413
+msgid "Email message template"
+msgstr ""
+
+#: demo-my-wordpress-main.php:421
+msgid "Do you want to allow users to enter the site name they wish to create."
+msgstr ""
+
+#: demo-my-wordpress-main.php:425
+msgid "Allow Users To Input Site Name:"
+msgstr ""
+
+#: demo-my-wordpress-main.php:441
+msgid ""
+"Do you want to allow users to enter the site ID that will be cloned when "
+"creating the new demo site."
+msgstr ""
+
+#: demo-my-wordpress-main.php:445
+msgid "Allow Users To Set The Site ID To Be Cloned:"
+msgstr ""
+
+#: demo-my-wordpress-main.php:460
+msgid ""
+"Input a comma separated list of site ID list, that will not be allowed for "
+"users to clone."
+msgstr ""
+
+#: demo-my-wordpress-main.php:464
+msgid "Banned Site IDs List From Cloning:"
+msgstr ""
+
+#: demo-my-wordpress-main.php:466
+msgid "Banned Site ID List"
+msgstr ""
+
+#: demo-my-wordpress-main.php:474
+msgid "Do you want to enable the captcha field when creating the demo form?"
+msgstr ""
+
+#: demo-my-wordpress-main.php:478
+msgid "Enable Captcha:"
+msgstr ""
+
+#: demo-my-wordpress-main.php:490
+msgid "Generated Demo Sites Settings:"
+msgstr ""
+
+#: demo-my-wordpress-main.php:499
+msgid ""
+"Select if you wish to automatically delete created demo sites, after a time "
+"interval."
+msgstr ""
+
+#: demo-my-wordpress-main.php:503
+msgid "Automatically Delete Demo Sites After:"
+msgstr ""
+
+#: demo-my-wordpress-main.php:513
+msgid "Disabled"
+msgstr ""
+
+#: demo-my-wordpress-main.php:518
+msgid "Once a month"
+msgstr ""
+
+#: demo-my-wordpress-main.php:523
+msgid "Once a week"
+msgstr ""
+
+#: demo-my-wordpress-main.php:528
+msgid "Once a day"
+msgstr ""
+
+#: demo-my-wordpress-main.php:533
+msgid "Twice a day"
+msgstr ""
+
+#: demo-my-wordpress-main.php:538
+msgid "Once an hour"
+msgstr ""
+
+#: demo-my-wordpress-main.php:549
+msgid ""
+"Do you want to clone the target site from the network to each generated demo "
+"site?"
+msgstr ""
+
+#: demo-my-wordpress-main.php:553
+msgid "Clone Target Site To Generated Demo Sites:"
+msgstr ""
+
+#: demo-my-wordpress-main.php:568
+msgid ""
+"Input the site numeric ID that will be cloned. This field will be used only "
+"if you do not allow website visitors to enter the site ID to be cloned from "
+"the submission form. If you leave this blank and do not allow users to enter "
+"the site ID to be cloned, the main site - with ID 1 will be cloned."
+msgstr ""
+
+#: demo-my-wordpress-main.php:572
+msgid "Target Site ID To Be Cloned:"
+msgstr ""
+
+#: demo-my-wordpress-main.php:574
+msgid "Cloned Site ID"
+msgstr ""
+
+#: demo-my-wordpress-main.php:582
+msgid ""
+"Do you want to clone the files from the target site, to newly created sites?"
+msgstr ""
+
+#: demo-my-wordpress-main.php:586
+msgid "Clone Also Files Of the Target Site To Generated Demo Sites:"
+msgstr ""
+
+#: demo-my-wordpress-main.php:602
+msgid ""
+"Do you want to add 'NOINDEX' tag to generated demo pages - and this page "
+"also?"
+msgstr ""
+
+#: demo-my-wordpress-main.php:606
+msgid "Add Noindex Tag To Demo Pages:"
+msgstr ""
+
+#: demo-my-wordpress-main.php:622
+msgid "Do you want to hide inactive plugins on demo pages?"
+msgstr ""
+
+#: demo-my-wordpress-main.php:626
+msgid "Hide Inactive Plugins on Demo Pages:"
+msgstr ""
+
+#: demo-my-wordpress-main.php:642
+msgid ""
+"Do you want to set the theme of the original blog or the latest installed "
+"theme?"
+msgstr ""
+
+#: demo-my-wordpress-main.php:646
+msgid "Activate The Theme Of The Main Blog:"
+msgstr ""
+
+#: demo-my-wordpress-main.php:662
+msgid ""
+"Do you want to automatically delete the default 'Sample Page' from newly "
+"created blogs?"
+msgstr ""
+
+#: demo-my-wordpress-main.php:666
+msgid "Delete Default 'Sample Page':"
+msgstr ""
+
+#: demo-my-wordpress-main.php:682
+msgid ""
+"Do you want to automatically delete the default 'Hello World' from newly "
+"created blogs?"
+msgstr ""
+
+#: demo-my-wordpress-main.php:686
+msgid "Delete Default 'Hello World':"
+msgstr ""
+
+#: demo-my-wordpress-main.php:701
+msgid "Here you can set a new blog title for created demo blogs."
+msgstr ""
+
+#: demo-my-wordpress-main.php:705
+msgid "Demo Blog Title:"
+msgstr ""
+
+#: demo-my-wordpress-main.php:707
+msgid "Blog Title"
+msgstr ""
+
+#: demo-my-wordpress-main.php:714
+msgid ""
+"Here you can set a new blog description\n"
+"                                 for created demo blogs."
+msgstr ""
+
+#: demo-my-wordpress-main.php:719
+msgid "Demo Blog Description:"
+msgstr ""
+
+#: demo-my-wordpress-main.php:721
+msgid "Blog Description"
+msgstr ""
+
+#: demo-my-wordpress-main.php:728
+msgid ""
+"Here you can set a password to be used for all newly created users. If you "
+"leave this field blank, the 'demo' password will be set."
+msgstr ""
+
+#: demo-my-wordpress-main.php:732
+msgid "Default Password For New Users:"
+msgstr ""
+
+#: demo-my-wordpress-main.php:734
+msgid "Default user password"
+msgstr ""
+
+#: demo-my-wordpress-main.php:738
+msgid "Demo Site Dashboard Customizations:"
+msgstr ""
+
+#: demo-my-wordpress-main.php:747 demo-my-wordpress-main.php:767
+#: demo-my-wordpress-main.php:787 demo-my-wordpress-main.php:807
+#: demo-my-wordpress-main.php:827 demo-my-wordpress-main.php:847
+#: demo-my-wordpress-main.php:867
+msgid "Do you want to disable this widget from the admin dashboard?"
+msgstr ""
+
+#: demo-my-wordpress-main.php:751
+msgid "Disable 'Quick Press Widget' From Dashboard:"
+msgstr ""
+
+#: demo-my-wordpress-main.php:771
+msgid "Disable 'Recent Drafts' From Dashboard:"
+msgstr ""
+
+#: demo-my-wordpress-main.php:791
+msgid "Disable 'WordPress.com Blog' From Dashboard:"
+msgstr ""
+
+#: demo-my-wordpress-main.php:811
+msgid "Disable 'Other WordPress News' From Dashboard:"
+msgstr ""
+
+#: demo-my-wordpress-main.php:831
+msgid "Disable 'Incoming Links' From Dashboard:"
+msgstr ""
+
+#: demo-my-wordpress-main.php:851
+msgid "Disable 'Plugins' From Dashboard:"
+msgstr ""
+
+#: demo-my-wordpress-main.php:871
+msgid "Disable 'Right Now' From Dashboard:"
+msgstr ""
+
+#: demo-my-wordpress-main.php:889
+msgid "Save Settings"
+msgstr ""
+
+#: demo-my-wordpress-main.php:892
+msgid "To start using the plugin, please include in a page this shortcode:"
+msgstr ""
+
+#: demo-my-wordpress-main.php:892
+msgid ""
+"It will create the form that will generate the 'demo creation user "
+"interface' ('Create Demo' button + captcha [if enabled]). You can also use "
+"these parameters for it: activate_plugins, switch_theme. The first will be "
+"used to activate a comma separated list of plugins, after creating the demo "
+"website. The second will activate a theme, set by it's stylesheet name."
+msgstr ""
+
+#: demo-my-wordpress-main.php:892
+msgid ""
+"Example: [dwp_demo_form activate_plugins='my-cool-plugin/my-cool-plugin.php,"
+"my-other-cool-plugins/my-other-cool-plugin.php' "
+"switch_theme='twentythirteen']"
+msgstr ""
+
+#: demo-my-wordpress-main.php:896
+msgid ""
+"To configure the WordPress menu items that will be available to demo users, "
+"please go to network admin panel -> Settings -> Network Settings -> "
+"configure each item as you wish."
+msgstr ""
+
+#: demo-my-wordpress-menus.php:30
+msgid "The Customizer is currently disabled."
+msgstr ""
+
+#: demo-my-wordpress-menus.php:216 demo-my-wordpress-menus.php:509
+msgid "Dashboard"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:228
+msgid "My Sites"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:357
+msgid "Customize"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:402
+msgid "Profile"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:508
+msgid "Super Admin gets the following limited menus, too?"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:510
+msgid "Dashboard My Sites"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:511
+msgid "Jetpack"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:512
+msgid "Jetpack Jetpack"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:513
+msgid "Jetpack Settings"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:514
+msgid "Akismet"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:515
+msgid "Akismet Stats"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:516
+msgid "Posts"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:517
+msgid "Posts Posts"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:518
+msgid "Posts Add New"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:519
+msgid "Posts Categories"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:520
+msgid "Posts Tags"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:521
+msgid "Media"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:522
+msgid "Media Library"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:523
+msgid "Media Add New"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:524
+msgid "Links"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:525
+msgid "Links Links"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:526
+msgid "Links Add New"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:527
+msgid "Links Link Categories"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:528
+msgid "Pages"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:529
+msgid "Pages Pages"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:530
+msgid "Pages Add New"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:531
+msgid "Pages Tags"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:532
+msgid "Comments"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:533
+msgid "+ New"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:534
+msgid "Appearance"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:535
+msgid "Appearance Themes"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:536
+msgid "Appearance Customize"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:537
+msgid "Appearance Widgets"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:538
+msgid "Appearance Menus"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:539
+msgid "Appearance Header"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:540
+msgid "Appearance Background"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:541
+msgid "Plugins"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:542
+msgid "Plugins Plugins"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:543
+msgid "Users"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:544
+msgid "Users All Users"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:545
+msgid "Users Add New"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:546
+msgid "Users Your Profile"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:547
+msgid "Tools"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:548
+msgid "Tools Available Tools"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:549
+msgid "Tools Import"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:550
+msgid "Tools Export"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:551
+msgid "Tools Delete Site"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:552 demo-my-wordpress.php:160
+msgid "Settings"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:553
+msgid "Settings General"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:554
+msgid "Settings Writing"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:555
+msgid "Settings Reading"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:556
+msgid "Settings Discussion"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:557
+msgid "Settings Media"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:558
+msgid "Settings Permalinks"
+msgstr ""
+
+#: demo-my-wordpress-menus.php:563
+msgid ""
+"Disabling \"Dashboard\" may not be a good idea, it needs to be at least a "
+"page every user can see."
+msgstr ""
+
+#: demo-my-wordpress.php:116
+#, php-format
+msgid ""
+"The plugin is not registered. Automatic updating is disabled. Please "
+"purchase a license for it from <a href=\"%s\" target=\"_blank\">here</a> and "
+"register  the plugin from the 'Main Settings' menu using your purchase code. "
+"<a href=\"%s\" target=\"_blank\">How I find my purchase code?</a>"
+msgstr ""
+
+#: demo-my-wordpress.php:153
+msgid "Support"
+msgstr ""
+
+#: demo-my-wordpress.php:204
+msgid "Activate Plugin License"
+msgstr ""
+
+#: demo-my-wordpress.php:212
+msgid "Main Settings"
+msgstr ""
+
+#: demo-my-wordpress.php:217
+msgid "Activity & Logging"
+msgstr ""
+
+#: demo-my-wordpress.php:233
+msgid ""
+"Please enable curl PHP extension. Please contact your hosting provider's "
+"support to help you in this matter."
+msgstr ""
+
+#: demo-my-wordpress.php:237 demo-my-wordpress.php:238
+msgid ""
+"Please update your PHP version to version 5.4 or greater. Right now you have "
+"PHP "
+msgstr ""
+
+#: demo-my-wordpress.php:358
+msgid "A Multisite WordPress install is needed for this shortcode to work."
+msgstr ""
+
+#: demo-my-wordpress.php:405
+msgid "Processing your request, please wait"
+msgstr ""
+
+#: demo-my-wordpress.php:420
+msgid "Email address: "
+msgstr ""
+
+#: demo-my-wordpress.php:429
+msgid "Site Name: "
+msgstr ""
+
+#: demo-my-wordpress.php:438
+msgid "Site ID To Clone: "
+msgstr ""
+
+#: demo-my-wordpress.php:448
+msgid "Solve this simple Captcha: "
+msgstr ""
+
+#: demo-my-wordpress.php:457
+msgid "Create Demo"
+msgstr ""
+
+#: demo-my-wordpress.php:477
+msgid ""
+"Please enter an email address before clicking the \"Create Demo\" button."
+msgstr ""
+
+#: demo-my-wordpress.php:481
+msgid ""
+"Please enter a valid email address. The email you entered failed to validate."
+msgstr ""
+
+#: demo-my-wordpress.php:488
+msgid "Please enter the name of the site you wish to be created."
+msgstr ""
+
+#: demo-my-wordpress.php:495
+msgid "Please enter the site ID you wish to be cloned."
+msgstr ""
+
+#: demo-my-wordpress.php:503
+msgid "Please solve the provided captcha."
+msgstr ""
+
+#: demo-my-wordpress.php:509
+msgid "Incorect Captcha. Please try again."
+msgstr ""
+
+#: demo-my-wordpress.php:562
+msgid ""
+"Your account already created a demo site using this user account. Please "
+"access it using provided credentials."
+msgstr ""
+
+#: demo-my-wordpress.php:569
+msgid ""
+"You already created a demo site using this user account. Please access it "
+"using provided credentials."
+msgstr ""
+
+#: demo-my-wordpress.php:588 demo-my-wordpress.php:638
+msgid "The site name you entered already exists."
+msgstr ""
+
+#: demo-my-wordpress.php:605
+msgid "You already created a demo site using this user account."
+msgstr ""
+
+#: demo-my-wordpress.php:612
+msgid "Your user name is not correct."
+msgstr ""
+
+#: demo-my-wordpress.php:618
+msgid "You must be logged in to use this feature."
+msgstr ""
+
+#: demo-my-wordpress.php:684
+msgid "Failed to create the user account for the new demo. Please try again."
+msgstr ""
+
+#: demo-my-wordpress.php:689
+msgid ""
+"Error occurred while creating the new user account for the demo. Please try "
+"again."
+msgstr ""
+
+#: demo-my-wordpress.php:713
+msgid "The site ID to be cloned set in plugin settings was not found: "
+msgstr ""
+
+#: demo-my-wordpress.php:734
+msgid "The site ID you entered is not allowed to be cloned: "
+msgstr ""
+
+#: demo-my-wordpress.php:747
+msgid "The site ID to be cloned you entered was not found: "
+msgstr ""
+
+#: demo-my-wordpress.php:775 demo-my-wordpress.php:780
+msgid "The new demo account could not be created. Please try again."
+msgstr ""
+
+#: demo-my-wordpress.php:810
+msgid "Demo Login URL"
+msgstr ""
+
+#: demo-my-wordpress.php:825
+msgid "An email was sent to provided email address with the demo login URL."
+msgstr ""
+
+#: demo-my-wordpress.php:830
+msgid "An error occurred while sending email."
+msgstr ""
+
+#: update-checker/Puc/v4/Plugin/UpdateChecker.php:363
+#: update-checker/Puc/v4p8/Plugin/Ui.php:128
+msgid "Check for updates"
+msgstr ""
+
+#: update-checker/Puc/v4/Plugin/UpdateChecker.php:409
+msgid "This plugin is up to date."
+msgstr ""
+
+#: update-checker/Puc/v4/Plugin/UpdateChecker.php:411
+msgid "A new version of this plugin is available."
+msgstr ""
+
+#: update-checker/Puc/v4/Plugin/UpdateChecker.php:413
+#: update-checker/Puc/v4p8/Plugin/Ui.php:223
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr ""
+
+#: update-checker/Puc/v4/Vcs/PluginUpdateChecker.php:83
+#: update-checker/Puc/v4p8/Vcs/PluginUpdateChecker.php:98
+msgid "There is no changelog available."
+msgstr ""
+
+#: update-checker/Puc/v4p8/Plugin/Ui.php:54
+msgid "View details"
+msgstr ""
+
+#: update-checker/Puc/v4p8/Plugin/Ui.php:77
+#, php-format
+msgid "More information about %s"
+msgstr ""
+
+#: update-checker/Puc/v4p8/Plugin/Ui.php:213
+#, php-format
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr ""
+
+#: update-checker/Puc/v4p8/Plugin/Ui.php:215
+#, php-format
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr ""
+
+#: update-checker/Puc/v4p8/Plugin/Ui.php:217
+#, php-format
+msgctxt "the plugin title"
+msgid "Could not determine if updates are available for %s."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Demo My WordPress"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "//1.envato.market/coderevolution"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin will generate demo pages for you, to show off your cool themes "
+"or plugins"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "CodeRevolution"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "//coderevolution.ro"
+msgstr ""
